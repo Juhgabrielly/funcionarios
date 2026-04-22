@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Bruno Almeida",
+        "cargo": "Analista de RH",
+        "salario": 4200.00,
+        "dataContatacao": "2024-04-10",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOyweUERP_PkAHflHnp-jMxGTx_D-DD638A&s"
+    },
+    {
+        "id": 2,
+        "nome": "Aline Campos",
+        "cargo": "Atendimento ao cliente",
+        "salario": 2200.00,
+        "dataContatacao": "2021-03-25",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWnvJshTBOsaWiVSEhWQLnSf7E_94H7dCeAw&s"
+    },
+    {
+        "id": 3,
+        "nome": "Marcela Lima",
+        "cargo": "Analista de Logística",
+        "salario": 4000.00,
+        "dataContatacao": "2025-09-21",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqRmase3Bto5chnuAxuCrGEgqM1AyoVqwlpQ&s"
+    },
+    {
+        "id": 4,
+        "nome": "Fernanda Fernandez",
+        "cargo": "Gerente de Projetos",
+        "salario": 12000.00,
+        "dataContatacao": "2023-07-08",
+        "avatar":"https://plus.unsplash.com/premium_photo-1689551670902-19b441a6afde?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVzc29hcyUyMGFsZWF0JUMzJUIzcmlhc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 5,
+        "nome": "Lucas Lima",
+        "cargo": "Engenheiro de Produção",
+        "salario": 9000.00,
+        "dataContatacao": 2.50,
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp3Z1hXfTVTKtbw3vE75-rtfr1ZCFcPSw4A&s"
+    },
+    {
+        "id": 6,
+        "nome": "Gustavo Gomes",
+        "cargo": "Financeiro",
+        "salario": 5000.00,
+        "dataContatacao": "2022-05-04",
+        "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHg0GeEfzncdg/profile-displayphoto-scale_400_400/B4DZisdeX0GgAk-/0/1755240065083?e=2147483647&v=beta&t=HTVKmuRd0fUTnyV3r46qSlq8prO-YRFLs_2OkRvARzY"
+    },
+    {
+        "id": 7,
+        "nome": "Alberto Costa",
+        "cargo": "Operador de Produção",
+        "salario": 2300.00,
+        "dataContatacao": "2023-03-10",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CpPAF3tRXy4JwCs4L7mW3RHQzdkzAg5Iew&s"
+    },
+    {
+        "id": 8,
+        "nome": "Livia Santos",
+        "cargo": "Analista de TI",
+        "salario": 7500.00,
+        "dataContatacao": "2022-11-14",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGVzc29hJTIwYWxlYXQlQzMlQjNyaWF8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": 9,
+        "nome": "Júlia Gabrielly",
+        "cargo": "Diretora Executiva",
+        "salario": 25000.00,
+        "dataContatacao": "2020-02-30",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkA52wjtvf_0mSvtlhxOuRwlA89ZsPhSHXA&s"
+    },
+    {
+        "id": 10,
+        "nome": "Carla Vienas",
+        "cargo": "Assistente Financeira",
+        "salario": 2500.00,
+        "dataContatacao": "2026-03-12",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShr4bzQ-CadqDh9TePRPav3WXUzg2RjGsSnA&s"
+    }
+]
