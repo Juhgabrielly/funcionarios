@@ -16,6 +16,6 @@ flutter run
 
 ## Prints
 
-|![Print1](./assets/info/print1.png)|![Print2](./assets/info/print2.png)|
+|![Print1](./assets/info/print1.PNG)|![Print2](./assets/info/print2.PNG)|
 |:-:|:-:|
 |Splash|Home com Funcionários|
